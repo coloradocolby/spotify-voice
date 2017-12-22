@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "Colby Thomas",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "start:server": "node server.js",
